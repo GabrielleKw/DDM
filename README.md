@@ -44,6 +44,9 @@ DEITEL, Abbey; DEITEL, H.M; DEITEL, P.J.. Android for Programmers. Prentice Hall
 LECHETA, Ricardo R.. Google Android: aprenda a criar aplicações para dispositivos móveis com o android sdk. 2. ed. Novatec: 2010.
 MUCHOW, John W.. Core J2ME Technology 
 
+#Obs
+E-mail prova helio.kamakawa@ifpr.edu.br
+
 
 # -------- Avaliação ---------
 Dia 05/05 
