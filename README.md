@@ -61,3 +61,11 @@ Avaliação Dissertativa de todo conteúdo
 * Prova prática e teórica;
 * Individual e sem consulta. 
 
+* Sábados Letivos  
+25/02
+19/08
+30/09
+
+* Atendimento segunda
+13:00 as 18:00
+
