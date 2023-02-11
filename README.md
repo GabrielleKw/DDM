@@ -72,3 +72,8 @@ Avaliação Dissertativa de todo conteúdo
 * Atendimento segunda
 13:00 as 18:00
 
+# Auto Avalição 
+
+* 10/02
+Chegada no hórario > sim(4 minutos atraso devivo a circular) 
+Interesse > desenvolvimento dessa área para armazenamento do projeto, e anotações como essa. Pesquisa no livro, foi selecionados dois escolhido devido as funcionalidades... Montagem em equipe dos seminários, divisão de conteudo para apresentação. Durante a apresentação dominio do tema selecionado. Fala clara para que toda a sala possa ouvir. Postura durantes as demais apresentação (não atrapahar a aula )
