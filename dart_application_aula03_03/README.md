@@ -24,30 +24,41 @@ Existe quatro formas basicas de escrever uma função.
 ➡     Função sem retorno e com parâmetros
 
         void imprimirNome (String nome){
+        
             print('Olá ${nome}');
+            
         }
 
         chamando a função e passando parametro 
+        
         imprimirNome('Gabi');
         
 ➡     Função com retorno e sem parâmetros 
 
         Strind devolverOla (){
+        
             return 'Olá';
+            
         }
 
         chamando 
+        
         var mensagem = devolverOlá();
+        
         print(mensagem);
 
 ➡     Função com retorno e com parâmetros
 
         String devolverOlaNome(String nome ){
+        
             return 'Olá $nome!';
+            
         }
 
         chamando 
+        
         var mensagem = devolverOlaNome('Gabrielle');
+        
         print(mensagem);
 
 # Parâmetro em Construção 
@@ -57,6 +68,7 @@ Existe quatro formas basicas de escrever uma função.
 São parametros que não são obrigatórios para o sistema, que podem ser ou não inseridos pelo prog. 
 
    * Parâmetros posicionais são aqueles que precisam estar numa posição específica durante a criação do objeto com o construtor;
+   
    * Os parâmetros nomeados não precisam de uma posição ou ordem específica, pois eles recebem e são identificados por nomes específicos
 
 ➡ Posicionais
@@ -89,12 +101,16 @@ Funções - Muito importante para o código quando iremos reatulizar algo, assim
 Função que não está associada a um nome. 
 
 void imprimir(){
+
     print('Hello ' );
+    
 }
 Acima temos a forma comum qual estamos acostumados, agora abaixo iremos aplicar a mesma forma porém, como uma função Anônima FA
 
 (){
+
     print('Hello');
+    
 }
 
 Expressão com um único comando podemos usar LAMBDA
@@ -109,17 +125,27 @@ Como só possuí um único comando, não precisamos de { } e nem de ; indicando 
 Exemplos: 
 
 (){
+
     print('Nome:');
+    
     var nome = stdin.readLineSync().toString();
+    
     print('Olá $nome');
+    
 }
 
 Agora como uma função anônima: 
+
 (){
+
     print('Nome:');
+    
     var nome = stdin.readLineSync().toString();
+    
     print('Olá $nome');
+    
 }
+
 
 OBS : 
 Ponto e Virgula indica o final do comando.
@@ -133,10 +159,15 @@ Nos permite resumir a função anônima.
 ➡ Funtiom Parameter FP
 
 void calcularNota(Function f) {
+
   var nota1 = int.parse(stdin.readLineSync()!);
+  
   var nota2 = int.parse(stdin.readLineSync()!);
+  
   var media = f(nota1,nota2);
+  
   print(media.toString());
+  
 }
 
 * Lembra de sempre colocar exclamação. 
