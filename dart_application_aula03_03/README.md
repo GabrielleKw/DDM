@@ -1,6 +1,14 @@
 # Aula 03_03
 
-Prof Hélio amakawa
+Prof Hélio Kamakawa
+<td align="center">
+      <a href="https://github.com/heliokamakawa">
+        <img src="https://avatars.githubusercontent.com/u/76081229?v=4" width="100px;" alt="Hélio "/><br>
+        <sub>
+          <b> Hélio  (Product Owner)</b>
+        </sub>
+      </a>
+    </td>
 
 
 # Funções Parâmetros e Retornos
