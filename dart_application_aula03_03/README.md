@@ -12,7 +12,7 @@ Prof Hélio Kamakawa
 
 
 # Funções Parâmetros e Retornos
-https://www.youtube.com/watch?v=d2dZfQIqb_A
+🎦 https://www.youtube.com/watch?v=d2dZfQIqb_A
 
 Sintaxe básica de uma função 
 
