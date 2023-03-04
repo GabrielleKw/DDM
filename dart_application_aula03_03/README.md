@@ -14,6 +14,7 @@ retorno nomeFunção ( [parâmetro] ){
 
 
 Existe quatro formas basicas de escrever uma função. 
+
 ➡     Função sem retorno e sem parâmetros 
 
         void imprimi(){
