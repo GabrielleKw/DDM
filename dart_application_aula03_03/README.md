@@ -3,7 +3,7 @@
 Prof Hélio Kamakawa
 <td align="center">
       <a href="https://github.com/heliokamakawa">
-        <img src="https://avatars.githubusercontent.com/u/76081229?v=4" width="100px;" alt="Hélio "/><br>
+        <img src="https://avatars.githubusercontent.com/u/20894663?v=4" width="100px;" alt="Hélio "/><br>
         <sub>
           <b> Hélio  (Product Owner)</b>
         </sub>
