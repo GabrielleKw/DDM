@@ -5,7 +5,7 @@ Prof Hélio Kamakawa
       <a href="https://github.com/heliokamakawa">
         <img src="https://avatars.githubusercontent.com/u/20894663?v=4" width="100px;" alt="Hélio "/><br>
         <sub>
-          <b> Hélio  (Product Owner)</b>
+          <b> Hélio </b>
         </sub>
       </a>
     </td>
