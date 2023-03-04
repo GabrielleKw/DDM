@@ -77,7 +77,6 @@ São parametros que não são obrigatórios para o sistema, que podem ser ou nã
 
    * Parâmetros posicionais são aqueles que precisam estar numa posição específica durante a criação do objeto com o construtor;
    
-   * Os parâmetros nomeados não precisam de uma posição ou ordem específica, pois eles recebem e são identificados por nomes específicos
 
 ➡ Posicionais
 
