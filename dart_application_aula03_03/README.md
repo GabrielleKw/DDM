@@ -112,6 +112,7 @@ void imprimir(){
     print('Hello ' );
     
 }
+
 Acima temos a forma comum qual estamos acostumados, agora abaixo iremos aplicar a mesma forma porém, como uma função Anônima FA
 
 (){
